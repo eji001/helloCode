@@ -1,0 +1,15 @@
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\bin\Debug\net6.0\Ex001.exe
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\bin\Debug\net6.0\Ex001.deps.json
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\bin\Debug\net6.0\Ex001.dll
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\bin\Debug\net6.0\Ex001.pdb
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\Ex001.dll
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\Ex001.pdb
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+E:\2022\geekbrains\Знакомство с языками программирования (лекции)\Examples\Ex001\obj\Debug\net6.0\ref\Ex001.dll
