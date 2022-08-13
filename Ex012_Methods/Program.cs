@@ -26,7 +26,7 @@ void Method21(string msg, int count)
     }
 }
 Method21(msg: "hello ", count: 3); // так можно писать не попорядку
-Method21(count: 3, msg: "hello 2"); 
+Method21(count: 3, msg: "hello 2");
 
 //вид 3
 // чтото возвращает но ничего не принимает
@@ -42,6 +42,7 @@ Console.WriteLine(year);
 //вид 4
 // чтото принимает чтото возвращает
 
+/*
 string Method4(int count, string text)
 {
     int i=0;
@@ -51,6 +52,18 @@ string Method4(int count, string text)
     {
         result = result + text;
         i++;
+    }
+    return result;
+}
+*/
+
+string Method4(int count, string text)
+{
+    string result = string.Empty;//пустая строка
+
+    for (int i = 0; i< count; i++)
+    {
+        result = result + text;
     }
     return result;
 }
